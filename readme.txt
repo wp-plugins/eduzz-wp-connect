@@ -22,6 +22,10 @@ Veja detalhes completos de como usar o Eduzz WP Connect.
 
 * Permite que o usuário entre na Eduzz e se logar na área de membros disponibilizado no painel de minhas compras
 
+**Sobre**
+
+O Plugin foi desenvolvido por [Eduzz.com](http://eduzz.com)
+
 == Installation ==
 
 ** Para instalar o Eduzz WP Connect siga os passos:**
