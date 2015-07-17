@@ -2,7 +2,7 @@
 Contributors: Eduzz.com
 Tags: Eduzz, Eduzz WP Connect, Connect, Produtor
 Requires at least: 4.0
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: trunk
 
 Esse plugin é útil para quem é produtor na Eduzz. Ele permite o cliente logar na área de membros através da Eduzz.
